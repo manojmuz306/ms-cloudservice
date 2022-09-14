@@ -6,3 +6,5 @@ eureka:
     register-with-eureka: true
     service-url:
       defaultzone: http://localhost:8761/eureka/
+test:
+ name: Test from product
